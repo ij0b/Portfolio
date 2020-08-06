@@ -1,0 +1,34 @@
+<svg width="64" height="66" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="68" width="66" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title transform="translate(0.555555522441864,0) translate(-0.555555522441864,0) translate(0.555555522441864,0) translate(-0.555555522441864,0) translate(-0.555555522441864,0) translate(0.555555522441864,0) translate(0.555555522441864,0) ">Layer 1</title>
+  <g id="svg_25">
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_5">
+    <path fill="#686868" stroke="null" id="svg_8" d="m0.62385,39.452246c0,4.037 3.272,7.308 7.309,7.308l19.489,0l0,19.49c0,4.036 3.271,7.309 7.308,7.309c4.037,0 7.309,-3.271 7.309,-7.309l0,-19.49l21.925,0c4.037,0 7.308,-3.271 7.308,-7.308c0,-4.037 -3.271,-7.309 -7.308,-7.309l-21.926,0l0,-24.361c0,-4.037 -3.272,-7.308 -7.309,-7.308c-4.037,0 -7.308,3.271 -7.308,7.308l0,24.361l-19.489,0c-4.036,0.001 -7.308,3.273 -7.308,7.309z"/>
+   </g>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_10"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_11"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_12"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_13"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_14"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_15"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_16"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_17"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_18"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_19"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_20"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_21"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_22"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_23"/>
+   <g transform="matrix(0.8905045842993786,0,0,0.8905045842993786,0,0) " id="svg_24"/>
+  </g>
+ </g>
+</svg>

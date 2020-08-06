@@ -1,0 +1,11 @@
+mixin skill(skill_name, a)
+	.cell.small-6.medium-3.large-3
+		label.profile__label
+			if(typeof(a) === 'undefined')
+				input.profile__checkbox-hidden(type="checkbox" name=skill_name)
+				span.profile__checkbox
+			else
+				input.profile__checkbox-hidden(type="checkbox" name=skill_name checked)
+				span.profile__checkbox.is-checked
+			span.profile__checkbox-text
+				= skill_name

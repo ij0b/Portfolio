@@ -1,0 +1,48 @@
+$sprites: (
+	"checkbox-active": (
+		normal: (
+			x: 0,
+			y: 0,
+			width: 19,
+			height: 19,
+			image: "sprites.png",
+			total_width: 40,
+			total_height: 19,
+		),
+		retina: (
+			x: 0,
+			y: 0,
+			width: 38,
+			height: 38,
+			image: "sprites@2x.png",
+			total_width: 80,
+			total_height: 38,
+		),
+	),
+	"checkbox-no-active": (
+		normal: (
+			x: 21,
+			y: 0,
+			width: 19,
+			height: 19,
+			image: "sprites.png",
+			total_width: 40,
+			total_height: 19,
+		),
+		retina: (
+			x: 42,
+			y: 0,
+			width: 38,
+			height: 38,
+			image: "sprites@2x.png",
+			total_width: 80,
+			total_height: 38,
+		),
+	),
+);
+
+@each $name in map-keys($sprites) {
+	.sprite-#{$name} {
+		@include sprite($name);
+	}
+}

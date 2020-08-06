@@ -1,0 +1,25 @@
+<svg width="914" height="14" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="16" width="916" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="7" x2="910" y1="7" x1="10" stroke-width="3" stroke="#555555" fill="none"/>
+  <ellipse ry="7.5" rx="7.5" id="svg_3" cy="147.953125" cx="92" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="none"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_6" cy="7" cx="7" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_8" cy="7" cx="107" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_10" cy="7" cx="207" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_13" cy="7" cx="307" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_14" cy="7" cx="407" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_15" cy="7" cx="507" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_16" cy="7" cx="607" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_17" cy="7" cx="707" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_19" cy="7" cx="807" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+  <ellipse stroke="#000" ry="5" rx="5" id="svg_20" cy="7" cx="907" stroke-opacity="null" stroke-width="0" fill="#555555"/>
+ </g>
+</svg>

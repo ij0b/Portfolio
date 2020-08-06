@@ -1,0 +1,15 @@
+document.write('<script type="text/javascript" src="js/jquery-3.2.0.min.js"></script>');
+document.write('<script type="text/javascript" src="js/jquery-ui.min.js"></script>');
+//document.write('<script type="text/javascript" src="fancybox/fancybox.js"></script>');
+document.write('<script type="text/javascript" src="datatables/datatables.js"></script>');
+document.write('<script type="text/javascript" src="datatables/datatables_responsive.js"></script>');
+document.write('<script type="text/javascript" src="datatables/dataTables.fixedHeader.min.js"></script>');
+document.write('<script type="text/javascript" src="select2/select2.full.min.js"></script>');
+//document.write('<script type="text/javascript" src="js/maskedinput.js"></script>');
+document.write('<script type="text/javascript" src="bootstrap/bootstrap.min.js"></script>');
+document.write('<script type="text/javascript" src="datepicker/moment.min.js"></script>'); 
+document.write('<script type="text/javascript" src="datepicker/bootstrap-datetimepicker.min.js"></script>'); 
+document.write('<script type="text/javascript" src="datepicker/ru.js"></script>'); 
+document.write('<script type="text/javascript" src="scrollbar/jquery.scrollbar.min.js"></script>');
+document.write('<link href="https://fonts.googleapis.com/css?family=Roboto:300,400&subset=cyrillic" rel="stylesheet">');
+document.write('<script type="text/javascript" src="js/scripts.js"></script>');

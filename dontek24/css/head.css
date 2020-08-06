@@ -1,0 +1,23 @@
+@charset "utf-8";
+/*<!-- F O N T S -->*/
+@import "font-awesome.css";
+/*<!-- S E L E C T 2 -->*/
+@import "../select2/select2.min.css";
+/*<!-- B O O T S T R A P -->*/
+@import "../bootstrap/bootstrap.min.css";
+/*<!-- S C R O L L B A R -->*/
+@import "../scrollbar/jquery.scrollbar.css";
+/*<!-- D A T A T A B L E S -->*/
+@import "../datatables/datatables.css";
+@import "../datatables/datatables_responsive.css";
+@import "../datatables/fixedHeader.bootstrap.min.css";
+/*<!-- Q U E R Y - U I -->*/
+@import "../css/jquery-ui.min.css";
+/*<!-- D A T E P I C K E R -->*/
+@import "../datepicker/bootstrap-datetimepicker.min.css";
+/*<!-- F A N C Y B O X -->*/
+/*@import "../fancybox/fancybox.css";*/
+/*<!-- S L I D E R -->*/
+/*@import "../slider/nivo-slider.css";*/
+/*<!-- L I G H T S L I D E R -->*/
+/*@import "../lightslider/lightslider.css";*/

@@ -1,0 +1,68 @@
+extends pug/base
+
+prepend vars
+	- title = "Тест-анкета"
+	- description = "Тестовое задание - анкета"
+
+append vars
+	//-
+
+block content
+	.readme-block__container
+		.readme-block__button
+			| readme
+		p
+			| Добрый день. Занимаюсь web-сферой около 5 лет,
+			| раньше работал в web-студии "Аскарон системс", сейчас фрилансом.
+		p
+			| Не знаю, возможно я усложнил тестовое задание,
+			| к примеру сделав скрипт на определение числа уровня владения js
+			| через смещение угла наклона стрелки.
+			| Кроссбраузерность проверил: Windows -  Edge, FF, Chrome, IE10, Opera.
+			| Добавил в корень архива файл "сравнивал с этим файлом через pixel perfect.png",
+			| сделанный из макета и увеличенный c 1000px до 1254px.
+		p
+			| Сейчас много свободного времени, если есть необходимость в освоении
+			| дополнительных технологий, готов в турборежиме изучить),
+			| в свободное от работы время.
+	.profile
+		.profile__form-block-1
+			.grid-x.grid-padding-x
+				.cell.small-shrink.medium-shrink.large-shrink
+					.profile__foto(style="background-image:url(images/profile__foto.jpg);")
+				.cell.small-auto.medium-auto.large-auto
+					.profile__inputs-background
+						input.profile__input(type="text" name="name" value="Александр" placeholder="ИМЯ")
+						input.profile__input(type="text" name="dob" value="07.03.1989" placeholder="ДАТА РОЖДЕНИЯ")
+						input.profile__input(type="text" name="town" value="Ростов-на-Дону" placeholder="ГОРОД")
+						input.profile__input(type="text" name="contacts" value="Email: ij0b@mail.ru , Telegram: https://t.me/Alexander_ij0b" placeholder="КОНТАКТНЫЕ ДАННЫЕ")
+
+		.profile__form-block-2
+			.grid-x.grid-padding-x
+				.cell.small-12.medium-12.large-12
+					.profile__header Навыки
+			.grid-x.grid-padding-x
+				+skill("html5","checked")
+				+skill("sass","checked")
+				+skill("vanillajs")
+				+skill("git")
+				+skill("css3","checked")
+				+skill("less","checked")
+				+skill("angular")
+				+skill("foundation")
+				+skill("бэм","checked")
+				+skill("gulp","checked")
+				+skill("jquery","checked")
+				+skill("bootstrap","checked")
+
+		.profile__form-block-3
+			.grid-x.grid-padding-x
+				.cell.small-12.medium-6.large-6
+					.profile__level-js-image-container
+						img.profile__level-js-sector(src="images/profile__level-sector.svg" alt="Секторы уровня js")
+						.profile__level-js-arrow
+				.cell.small-12.medium-6.large-6
+					.profile__level-js-header
+						| Мой уровень владения <br>
+						| JavaScript
+					input.profile__level-js-number(type="text" readonly name="level-js" value="0" data-level-js-animate-to="20")
